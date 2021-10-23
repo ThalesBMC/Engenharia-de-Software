@@ -1,5 +1,5 @@
 Projeto ES
 
-Editor de arquivos markdown
+Editor de arquivos Markdown
 
 https://typora.io/
