@@ -25,7 +25,7 @@ Primeiro, revise e estude o código das duas versões (cada versão tem menos de
 
 Em meados da década de 70, com a popularização da computação e a disseminação da Internet, cada vez mais linguagens e soluções computacionais surgem. Começam a ser criados os paradigmas da programação. Cristina Lopes - professora da Universidade da Califórnia, em Irvine, nos EUA - é autora de um livro sobre estilos de programação. Ela discute no livro diversos estilos para implementação de um mesmo problema, chamado frequência de termos. Vamos abordar dois desses estilos que são comumente utilizados até os dias de hoje: as implementações Monolíticas e Orientadas a objetos, cada uma com suas vantagens e com uma aplicação mais adequada.
 
-### Estilo Monolítico
+## Estilo Monolítico
 
 Nos primórdios da programação de computadores, com programação de baixo nível, linguagens e programas relativamente pequenos, esse estilo era tudo o que existia.
 Em grandes aplicações em que os códigos se escalam grandemente, os sistemas baseados no estilo monolítico, geralmente possuem componentes únicos e grandes que fazem tudo o que o aplicativo precisa fazer. Ele não possui sub componentes modulares, cada um responsável por uma funcionalidade específica, sendo assim é utilizado uma única parte de código do início ao fim, e isso é considerado uma má prática de aplicação da programação em todas as escalas. Por esse motivo então, temos o estilo orientado a objetos.
@@ -80,7 +80,9 @@ O código é inteiriço. Um único bloco que assume a responsabilidade de resolv
 
 Esse tipo de código pode ser escrito em qualquer linguagem. Porém, não é comum ver esse tipo de código em soluções mais modernas. Por isso, o estilo Orientado a Objetos têm maior relevância no mundo moderno, onde há uma separação por métodos dentro do código.
 
-**Estilo Orientado a Objetos**
+
+
+## Estilo Orientado a Objetos
 
 Neste estilo, o problema é subdividido em coleções de procedimentos menores, cada coleção compartilhando e ocultando uma estrutura e / ou controle de dados principal. Essas coleções são chamadas de objetos.
 
