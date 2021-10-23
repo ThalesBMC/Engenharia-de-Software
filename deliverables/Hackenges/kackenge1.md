@@ -1,5 +1,7 @@
 # Hackenge 01
 
+------
+
 ### IF977- Engenharia de Software - Equipe 01
 
 **Desafio Proposto:**
@@ -11,6 +13,8 @@ Um dos novos padrões que eles mencionaram na entrevista é chamado de Null Obje
 - Mas se preferir consultar um livro, uma boa referência é o Capítulo 25 do livro Agile Principles, Patterns, and Practices in C#, de Robert C. Martin e Micah Martin.
 
 - Ou então o refactoring chamado Introduce Null Object do livro de Refactoring de Martin Fowler.
+
+------
 
 # **Null Object**
 
