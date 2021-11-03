@@ -1,0 +1,37 @@
+@import "../../styles/index.less";
+
+.button {
+  background: #303030;
+  border: @pixel-size solid #303030;
+  border-radius: @pixel-size * 0.5;
+  font-size: @pixel-size * 2;
+  line-height: @pixel-size * 3;
+  font-weight: bold;
+  color: #f9f6f2;
+  width: 150px;
+  height: 50px;
+}
+.css-button-3d--black {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #343a40;
+  box-shadow: 0 5px #212529;
+}
+.css-button-3d--black:hover {
+  box-shadow: 0 3px #212529;
+  top: 1px;
+}
+.css-button-3d--black:active {
+  box-shadow: 0 0 #212529;
+  top: 5px;
+}
