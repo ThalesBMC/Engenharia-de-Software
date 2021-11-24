@@ -49,7 +49,6 @@ Os NFTs são negociados em **mercados de NFT**, também conhecidos como marketpl
 
 
 
-
 ## Arquitetura do Sistema 👨🏻‍💻
 
 | FrontEnd: Next.js e Tailwind | Backend: Polygon e Firebase |
