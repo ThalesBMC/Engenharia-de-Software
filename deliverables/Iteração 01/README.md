@@ -2,7 +2,7 @@
 
 ## Iteração 1
 
-![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 01\header.jpg)
+![](header.jpg)
 
 ------
 
@@ -50,13 +50,13 @@ a
 
 ## Arquitetura do Sistema
 
-| FrontEnd: Next.js e Tailwind                                 | Backend: Polygon e Firebase                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 01\front.jpg) | ![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 01\back.jpg) |
+| FrontEnd: Next.js e Tailwind | Backend: Polygon e Firebase |
+| ---------------------------- | --------------------------- |
+| ![](front.jpg)               | ![](back.jpg)               |
 
 #### Processo de Criação de um NFT
 
-![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 01\arquitetura.png)
+![](arquitetura.png)
 
 
 
@@ -82,7 +82,7 @@ Como investidor, eu gostaria de comprar e vender NFT's de forma estratégica vis
 
 ## Mockup da Interface Final
 
-
+<print do mockup no trello>
 
 ------
 
@@ -118,23 +118,11 @@ Como investidor, eu gostaria de comprar e vender NFT's de forma estratégica vis
 | Definição e finalização da metodologia de trabalho (Criação de repositórios, quadros e cartões kanban) | `@todos`   |
 | Reunião semanal todos os sábados no Discord da Equipe        | `@todos`   |
 
-### O que foi feito
-| Atividade                                                    | Atribuição                         |
-| ------------------------------------------------------------ | ---------------------------------- |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@pessoa1`, `@pessoa2`, `@pessoa3` |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@todos`                           |
+### O que foi e  o que não foi feito
 
-### O que não foi feito
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-> **Nota:** Levante o que não foi realizado e o seu respectivo impedimento.
+* Todas as atividades planejadas para essa iteração foram realizadas!
 
 ### Planejado para próxima iteração
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! 
-
 - Criação do planejamento no formato **GQM**;
 - Modelo ER;
 - Criação dos primeiros testes automatizados funcionando;
