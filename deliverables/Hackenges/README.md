@@ -26,4 +26,5 @@ Para a resolução desses hackenges, a equipe criou um documento no Google Docs 
 
 1. [Hackenge 1 - Null Object](https://github.com/ThalesBMC/Engenharia-de-Software/tree/main/deliverables/Hackenges/Hackenge%201)
 2. [Hackenge 2 - Estilos para implementação](https://github.com/ThalesBMC/Engenharia-de-Software/tree/main/deliverables/Hackenges/Hackenge%202)
+3. Hackenge 3 - 2048
 
