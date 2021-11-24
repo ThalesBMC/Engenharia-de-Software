@@ -38,7 +38,7 @@ Os NFTs são negociados em **mercados de NFT**, também conhecidos como marketpl
 
 ## Canvas do Modelo de Negócio 📈
 
-a
+![](modelo-de-negocio.png)
 
 ------
 
