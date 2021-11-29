@@ -1,6 +1,7 @@
 **Iteração 2**
 
 - Criação do planejamento no formato **GQM**;
+- Planejamento da Comunicação Interna
 - Modelo ER;
 - Histórias definidas, claras, concisas, com entrega de valor bem definida;
 - Ambiente de versionamento atuante (com commits frequentes);
