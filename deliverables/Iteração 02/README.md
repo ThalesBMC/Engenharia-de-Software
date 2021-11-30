@@ -1,6 +1,6 @@
-# UFPE NFT Market  <img src="icon.png" style="zoom:15%;" />
+# UFPE NFT Market 
 
-## Iteração 2
+## Iteração 2	
 
 ![](header.jpg)
 

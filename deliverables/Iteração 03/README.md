@@ -13,7 +13,7 @@
 - Artefatos para garantir continuidade do projeto;
 - [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 3**.
 
-# UFPE NFT Market  <img src="D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 02\icon.png" style="zoom:15%;" />
+# UFPE NFT Market 
 
 ## Iteração 3
 
