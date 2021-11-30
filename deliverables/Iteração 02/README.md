@@ -1,4 +1,4 @@
-# UFPE NFT Market  <img src="D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 01\icon.png" style="zoom:15%;" />
+# UFPE NFT Market  <img src="icon.png" style="zoom:15%;" />
 
 ## Iteração 2
 
