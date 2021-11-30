@@ -1,14 +1,8 @@
-- TDD experimentado e usado;
-- Criação de testes fim-a-fim automatizados funcionando;
-- Pelo menos uma entrega para o cliente: deploy de algumas HU's;
-- Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
-- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 2**.
-
 # UFPE NFT Market  <img src="D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 01\icon.png" style="zoom:15%;" />
 
 ## Iteração 2
 
-![](D:/Documentos/GitHub/Engenharia-de-Software/deliverables/Iteração 01/header.jpg)
+![](header.jpg)
 
 
 
