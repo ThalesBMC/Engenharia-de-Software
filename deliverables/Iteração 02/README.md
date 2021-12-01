@@ -16,9 +16,9 @@
 
 ------
 
-## Criação do planejamento no formato GQM 📑
+## Criação do planejamento no formato GQM (Goal Question Metric) 📑
 
-
+![](gqm.jpg)
 
 
 
