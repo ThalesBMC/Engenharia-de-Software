@@ -31,31 +31,23 @@
 
 ------
 
-## Criação do planejamento no formato GQM 📑
+## aaa 📑
 
-#### Tópico 1
+# ITERACAO 3 - To be Done
 
-texto, texto, texto
-
-#### Tópico 2
-
-texto, texto texto
-
-
-
-## Criação de Planejamento da Comunicação Interna 📢
+## aaa 📢
 
 link pro anexo
 
 ------
 
-## Modelo ER do Sistema 🔡
+## a Sistema 🔡
 
 anexo modelo
 
 ------
 
-## Desenvolvimento de Histórias de Usuários mais detalhadas
+## Histórias de U
 
 ```
 Como usuário do sistema, eu gostaria de favoritar um NFT para que eu possa acompanhar seu valor e para comprá-la posteriormente.
@@ -75,70 +67,32 @@ Como usuário do sistema, eu gostaria de alterar meu nome e minha foto de perfil
 
 
 
-## Desenvolvimento de Testes  Fim-a-Fim
+## Testes
 
-- descricao do teste
+- descricao 
 
 ```javascript
 describe("NFTMarket", function() {
-  it("Deve criar e executar uma venda", async function() {
-    const Market = await ethers.getContractFactory("NFTMarket")
-    const market = await Market.deploy()
-    await market.deployed()
-    const marketAddress = market.address
-
-    const NFT = await ethers.getContractFactory("NFT")
-    const nft = await NFT.deploy(marketAddress)
-    await nft.deployed()
-    const nftContractAddress = nft.address
-
-    let listingPrice = await market.getListingPrice()
-    listingPrice = listingPrice.toString()
-
-    const auctionPrice = ethers.utils.parseUnits('1', 'ether')
-
-    await nft.createToken("https://www.mytokenlocation.com")
-    await nft.createToken("https://www.mytokenlocation2.com")
-  
-    await market.createMarketItem(nftContractAddress, 1, auctionPrice, { value: listingPrice })
-    await market.createMarketItem(nftContractAddress, 2, auctionPrice, { value: listingPrice })
-    
-    const [_, buyerAddress] = await ethers.getSigners()
-
-    await market.connect(buyerAddress).createMarketSale(nftContractAddress, 1, { value: auctionPrice})
-
-    items = await market.fetchMarketItems()
-    items = await Promise.all(items.map(async i => {
-      const tokenUri = await nft.tokenURI(i.tokenId)
-      let item = {
-        price: i.price.toString(),
-        tokenId: i.tokenId.toString(),
-        seller: i.seller,
-        owner: i.owner,
-        tokenUri
-      }
-      return item
-    }))
-    console.log('items: ', items)
-  })
-})
+}
 ```
 
 
 
-## Deploy de Histórias de Usuários da Iteração 1
+## Deploy de Histórias de Usuários da Iteração 2
 
 ```
-Como artista, eu gostaria de criar um NFT com minha arte para que ela seja única e tenha um valor digital insubstituível.
-```
-
-```
-Como artista, eu gostaria de criar um NFT com minha arte para que ela possa ser vendida a outros usuários integrantes da blockchain e eu consiga ter um lucro com meu trabalho desenvolvido.
+Como usuário do sistema, eu gostaria de favoritar um NFT para que eu possa acompanhar seu valor e para comprá-la posteriormente.
 ```
 
 ```
-Como investidor, eu gostaria de comprar e vender NFT's de forma estratégica visando o retorno do capital investido.
+Como usuário do sistema, eu gostaria de visualizar os demais usuários para segui-los e ver seu dashboard com seus NFT's.
 ```
+
+```
+Como usuário do sistema, eu gostaria de de que os demais usuários consigam me encontrar para me seguir e visualizar meu dashboard com minhas NFT's.
+```
+
+Como usuário do sistema, eu gostaria de alterar meu nome e minha foto de perfil para que os demais usuários possam encontrar meu perfil.
 
 ![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 02\create.jpg)
 
