@@ -18,13 +18,7 @@
 
 ## Criação do planejamento no formato GQM 📑
 
-#### Tópico 1
 
-texto, texto, texto
-
-#### Tópico 2
-
-texto, texto texto
 
 
 
@@ -62,7 +56,7 @@ Como usuário do sistema, eu gostaria de alterar meu nome e minha foto de perfil
 
 ## Desenvolvimento de Testes  Fim-a-Fim
 
-- descricao do teste
+- Teste onde deve ser criado um NFT e executada a venda do mesmo
 
 ```javascript
 describe("NFTMarket", function() {
@@ -131,9 +125,7 @@ Como investidor, eu gostaria de comprar e vender NFT's de forma estratégica vis
 Como como colecionador de NFTs, eu gostaria de ter a posse de itens raros em meu dashboard para ganhar status e reconhecimento de outros colecionadores.
 ```
 
-![](dboard.jpg)
-
-(inserir print com dasboard preenchido com alguma nft)
+![](dboard.jpeg)
 
 ------
 
