@@ -26,6 +26,9 @@
 
 ![](plano-de-gerenciamento-das-comunicacoes.png)
 
+Para acessar o Plano de Gerenciamento das Comunicações Internas completo, entre no link abaixo:
+
+https://github.com/ThalesBMC/Engenharia-de-Software/blob/5181782d84a262e866285857c2a17cc4e46d33df/deliverables/Itera%C3%A7%C3%A3o%2002/PLANO%20DE%20GERENCIAMENTO%20DAS%20COMUNICA%C3%87%C3%95ES%20-%20ES.pdf
 
 ------
 
