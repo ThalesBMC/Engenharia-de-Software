@@ -24,7 +24,8 @@
 
 ## Criação de Planejamento da Comunicação Interna 📢
 
-link pro anexo
+![](plano-de-gerenciamento-das-comunicacoes.png)
+
 
 ------
 
