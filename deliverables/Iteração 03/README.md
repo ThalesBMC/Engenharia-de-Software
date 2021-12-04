@@ -73,9 +73,7 @@ https://nft-marketplace-thalesbmc.vercel.app/
 
 ## Organização dos repositórios e Documentação do projeto
 
-(juntar os readme no repo principal)
-
-(Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto;)
+![](documentacao.jpg)
 
 &nbsp;
 
@@ -143,7 +141,7 @@ https://nft-marketplace-thalesbmc.vercel.app/
 - Criação de apresentação no Google Presentations e entrega em PDF
 - Entrega de Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto;
 - Descrição detalhada do processo de trabalho, ferramentas e comunicação da equipe
-- Criação do 4 Postmortem da Iteração 4.
+- Criação do Postmortem da Última iteração 4.
 
 &nbsp;
 
