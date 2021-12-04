@@ -1,25 +1,6 @@
-**Iteração 3**
-
-- Continuação do desenvolvimento;
-- Histórias definidas, claras, concisas, com entrega de valor bem definida;
-- Ambiente de versionamento atuante (com commits frequentes);
-- Issue tracker atualizado;
-- TDD experimentado e usado;
-- Criação de testes fim-a-fim automatizados funcionando com atenção para **Cobertura dos testes**;
-- Integração contínua;
-- Entregas frequentes;
-- Nova entrega para o cliente: deploy de mais algumas HU's;
-- Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
-- Artefatos para garantir continuidade do projeto;
-- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 3**.
-
-# UFPE NFT Market 
+# UFPE NFT Marketplace
 
 ## Iteração 3
-
-![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 02\header.jpg)
-
-
 
 ### IF977- Engenharia de Software - Equipe 01
 
@@ -29,145 +10,143 @@
 - Thiago Conte Rocha - @tcr2
 - Thiago de Holanda Carvalho - @thc
 
-------
+---
 
-## aaa 📑
+&nbsp;
 
-# ITERACAO 3 - To be Done
+## Finalização e Deploy do desenvolvimento por meio do Vercel 👩🏻‍💻
 
-## aaa 📢
+https://nft-marketplace-thalesbmc.vercel.app/
 
-link pro anexo
+![](deploy.jpg)
 
-------
+---
 
-## a Sistema 🔡
+&nbsp;
 
-anexo modelo
+## Deploy de Histórias de Usuário da Iteração 02
 
-------
-
-## Histórias de U
+&nbsp;
 
 ```
 Como usuário do sistema, eu gostaria de favoritar um NFT para que eu possa acompanhar seu valor e para comprá-la posteriormente.
 ```
 
-```
-Como usuário do sistema, eu gostaria de visualizar os demais usuários para segui-los e ver seu dashboard com seus NFT's.
-```
+![](favorite.jpeg)
 
-```
-Como usuário do sistema, eu gostaria de de que os demais usuários consigam me encontrar para me seguir e visualizar meu dashboard com minhas NFT's.
-```
-
-```
-Como usuário do sistema, eu gostaria de alterar meu nome e minha foto de perfil para que os demais usuários possam encontrar meu perfil.
-```
-
-
-
-## Testes
-
-- descricao 
-
-```javascript
-describe("NFTMarket", function() {
-}
-```
-
-
-
-## Deploy de Histórias de Usuários da Iteração 2
-
-```
-Como usuário do sistema, eu gostaria de favoritar um NFT para que eu possa acompanhar seu valor e para comprá-la posteriormente.
-```
+&nbsp;
 
 ```
 Como usuário do sistema, eu gostaria de visualizar os demais usuários para segui-los e ver seu dashboard com seus NFT's.
 ```
 
+![](users.jpeg)
+
+&nbsp;
+
 ```
 Como usuário do sistema, eu gostaria de de que os demais usuários consigam me encontrar para me seguir e visualizar meu dashboard com minhas NFT's.
 ```
 
-Como usuário do sistema, eu gostaria de alterar meu nome e minha foto de perfil para que os demais usuários possam encontrar meu perfil.
+![](dash.jpeg)
 
-![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 02\create.jpg)
+&nbsp;
 
 ```
-Como como colecionador de NFTs, eu gostaria de ter a posse de itens raros em meu dashboard para ganhar status e reconhecimento de outros colecionadores.
+Como usuário do sistema, eu gostaria de alterar meu nome, minha foto de perfil e a descrição do meu perfil para que os demais usuários possam encontrar meu perfil.
 ```
 
-![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 02\dboard.jpg)
+![](profile.jpeg)
 
-(inserir print com dasboard preenchido com alguma nft)
+---
 
-------
+&nbsp;
+
+## Finalização e Deploy do desenvolvimento por meio do Vercel 👩🏻‍💻
+
+https://nft-marketplace-thalesbmc.vercel.app/
+
+![](deploy.jpg)
+&nbsp;
+
+---
+
+## Organização dos repositórios e Documentação do projeto
+
+(juntar os readme no repo principal)
+
+(Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto;)
+
+&nbsp;
+
+---
+
+## Preparação de artefatos e Planejamento para a Apresentação Final
+
+- Screencast de utilização do produto
+- Definição dos pontos para a apresentação final
+- Descrição detalhada do processo de trabalho da equipe
+- Como a comunicação foi gerenciada
+- Ferramentas utilizadas
+- Levantamento de todas as práticas ágeis adotadas
+- Criação de apresentação no Google Presentations
+
+&nbsp;
+
+---
 
 ## Metodologia Utilizada
 
 - #### Versionamento do Código por meio do Git e [repositório público no GitHub](https://github.com/ThalesBMC/NFTMarketplace)
-
 - #### Controle de atividades planejadas, em progresso e realizadas por meio de [Quadro Kanban no Trello](https://trello.com/b/JU5srUvv/quadro-kanban-projeto-es):
 
-  ![](D:\Documentos\GitHub\Engenharia-de-Software\deliverables\Iteração 02\trello.jpg)
-
-  
+  ![](trello.jpg)
 
 - #### Realização de reuniões semanais por entre os integrantes da equipe utilizando o Discord
 
-  - *Ata de reunião da Iteração 02 - realizada no dia 27/11/2021*
+  - _Ata de reunião para a Iteração 03 - realizada no dia 04/12/2021_
 
-    Disponível no Trello: https://trello.com/c/uuUkKCNk/29-reuni%C3%A3o-semanal
-
-    
+    Disponível no Trello:
 
 - #### Apresentar ao professor orientador relatórios semanais do andamento das atividades em desenvolvimento
+  &nbsp;
+  &nbsp;
 
-------
+---
 
-# Postmorten da Iteração 2📜
+# Postmorten da Iteração 3📜
 
 | Início da Iteração | Término da iteração |
 | ------------------ | ------------------- |
-| 25/11/2021         | 01/12/2021          |
+| 02/12/2021         | 08/12/2021          |
 
 ## O que estava planejado
 
-| Atividade                                                | Atribuição |
-| -------------------------------------------------------- | ---------- |
-| Criação do planejamento no formato GQM                   | `@thc`     |
-| Criação de Planejamento da Comunicação Interna           | `@fansf`   |
-| Modelo ER do Sistema                                     | `@trc2`    |
-| Desenvolvimento de Histórias de Usuários mais detalhadas | `@gppn`    |
-| Desenvolvimento de Testes  Fim-a-Fim                     | `@tbmc`    |
-| Deploy de Histórias de Usuários da Iteração 1            | `@tbmc`    |
-| Reunião semanal todos os sábados no Discord da Equipe    | `@todos`   |
+| Atividade                                         | Atribuição |
+| ------------------------------------------------- | ---------- |
+| Finalizar desenvolvimentos e inserir documentação | `@tbmc`    |
+| Manter o Issue Tracker (Trello) atualizado        | `@todos`   |
+| Planejamento para a Apresentação Final            | `@todos`   |
+| Realização do Postmortem da Iteração 3            | `@gppn`    |
+
+&nbsp;
 
 ## O que foi e o que não foi feito
 
-* Todas as atividades planejadas para essa iteração foram realizadas!
+- Todas as atividades planejadas para essa iteração foram realizadas!
 
-## Planejado para próxima iteração
+&nbsp;
 
-- Definir mais três e últimas histórias de usuário;
-- Finalizar desenvolvimentos;
-- Atualizar o Issue Tracker (Trello) atualizado;
-- Organizar e detalhar a documentação do projeto;
-- Planejamento do Pitch e organização para a Apresentação Final;
-- Realização do Postmortem da Iteração 3.
+## Planejado para última iteração
 
-### Lições aprendidas
+- Entrega do Screencast de utilização do produto
+- Criação de apresentação no Google Presentations e entrega em PDF
+- Entrega de Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto;
+- Descrição detalhada do processo de trabalho, ferramentas e comunicação da equipe
+- Criação do 4 Postmortem da Iteração 4.
 
-* O que é um planejamento GQM;
-* Como criar um planejamento de comunicação interna;
-* Melhores práticas para se representar um modelo ER de um sistema;
-* Planejamento TDD e criação de Teste Fim a Fim automatizado;
-* Organização do trabalho para que todos da equipe pudessem colaborar com as entregas.
+&nbsp;
 
-------
+---
 
-##### *IF977- Engenharia de Software - Equipe 01 - 2021.1- Iteração 02*
-
+##### _IF977- Engenharia de Software - Equipe 01 - 2021.1- Iteração 02_
