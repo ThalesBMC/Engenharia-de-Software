@@ -116,6 +116,7 @@ https://nft-marketplace-thalesbmc.vercel.app/
 | Manter o Issue Tracker (Trello) atualizado        | `@todos`   |
 | Planejamento para a Apresentação Final            | `@todos`   |
 | Realização do Postmortem da Iteração 3            | `@gppn`    |
+| Ajustes no botão de realizar venda                | `@tcr2`    |
 
 &nbsp;
 
