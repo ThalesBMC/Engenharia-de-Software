@@ -94,7 +94,7 @@ https://nft-marketplace-thalesbmc.vercel.app/
 
   - _Ata de reunião para a Iteração 03 - realizada no dia 11/12/2021_
 
-    Disponível no Trello:
+    Disponível no Trello: https://trello.com/c/U1hIvGRI/31-reuni%C3%A3o-semanal
 
 - #### Apresentar ao professor orientador relatórios semanais do andamento das atividades em desenvolvimento
   &nbsp;
