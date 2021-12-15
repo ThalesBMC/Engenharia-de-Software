@@ -14,16 +14,6 @@
 
 &nbsp;
 
-## Finalização e Deploy do desenvolvimento por meio do Vercel 👩🏻‍💻
-
-https://nft-marketplace-thalesbmc.vercel.app/
-
-![](deploy.jpg)
-
----
-
-&nbsp;
-
 ## Deploy de Histórias de Usuário da Iteração 02
 
 &nbsp;
@@ -102,7 +92,7 @@ https://nft-marketplace-thalesbmc.vercel.app/
 
 - #### Realização de reuniões semanais por entre os integrantes da equipe utilizando o Discord
 
-  - _Ata de reunião para a Iteração 03 - realizada no dia 04/12/2021_
+  - _Ata de reunião para a Iteração 03 - realizada no dia 11/12/2021_
 
     Disponível no Trello:
 
