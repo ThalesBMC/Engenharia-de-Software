@@ -54,7 +54,7 @@ Como usuário do sistema, eu gostaria de alterar meu nome, minha foto de perfil 
 
 ## Finalização e Deploy do desenvolvimento por meio do Vercel 👩🏻‍💻
 
-https://nft-marketplace-thalesbmc.vercel.app/
+https://ufpe-nft-market.vercel.app/
 
 ![](deploy.jpg)
 &nbsp;
