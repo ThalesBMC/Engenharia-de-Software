@@ -1,6 +1,20 @@
 UFPE NFT Marketplace
 
+Para iniciar o projeto:
+
+Você precisa ter o nftaddress e nftmarket address que é recebido após a execução do código "npm hardhat run scripts/deploy.js --network localhost
+
+Adicione os dados do passo anterior a um arquivo chamado config.js
+
+Utilize algum site como o Infura para hospedar seu projeto utilizando o project ID
+
 You can run using npm run dev
+
+Substitua NEXT_PUBLIC_WORKSPACE_URL por "https://matic-mumbai.chainstacklabs.com/"
+
+Crie um arquivo .secret para armazenar o valor da private key da sua metamask antes de fazer o deploy
+
+E, por fim, substituir os dados no arquivo firebase-config.js
 
 The current website:
 https://ufpe-nft-market.vercel.app/
